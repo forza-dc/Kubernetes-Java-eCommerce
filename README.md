@@ -1,7 +1,10 @@
+### Java Application Deployment with Docker and Kubernetes
+
+This guide provides step-by-step instructions for deploying a Java application with Docker and Kubernetes. 
+
 ![ShopFront](<Java-Docker ShopFront.png>)
 
-Java Application Deployment with Docker and Kubernetes
-This guide provides step-by-step instructions for deploying a Java application with Docker and Kubernetes. The application consists of three separate components:
+The application consists of three separate components:
 
 Shopfront: Frontend of the page.
 ProductCatalogue: Database component.
