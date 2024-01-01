@@ -64,7 +64,9 @@ stockmanager/
         |-- resources/
             |-- // resources, configuration files, etc.
         |-- pom.xml
-Building Docker Images
+
+### Building Docker Images
+
 Build Shopfront Image:
 
 
