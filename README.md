@@ -6,12 +6,16 @@ This guide provides step-by-step instructions for deploying a Java application w
 
 The application consists of three separate components:
 
-Shopfront: Frontend of the page.
-ProductCatalogue: Database component.
-StockManager: Inventory control component.
+- Shopfront: Frontend of the page.
+
+- ProductCatalogue: Database component.
+
+- StockManager: Inventory control component.
+
 Each component is Dockerized and includes a pom.xml file for Maven to build it.
 
-Prerequisites
+### Prerequisites
+
 Docker: Install Docker on your local machine. You can download it from Docker's official website.
 
 Minikube: Install Minikube to set up a local Kubernetes cluster. Follow the instructions on the Minikube GitHub repository.
